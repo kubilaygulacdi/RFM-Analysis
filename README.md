@@ -1,2 +1,2 @@
 # RFM-Analysis
-Customer Segmentation with RFM Analysis
+FLO Customer Segmentation with RFM Analysis
